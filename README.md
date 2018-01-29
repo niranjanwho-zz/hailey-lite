@@ -1,0 +1,2 @@
+# hailey-lite
+WordPress Theme
